@@ -1,0 +1,26 @@
+﻿  Application.cpp
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(19,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(19,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(50,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(50,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(51,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(51,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(52,41): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(91,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(135,41): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(139,41): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(143,41): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(147,41): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(163,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(163,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(163,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(167,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(167,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(167,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(167,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(171,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(171,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(229,106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(229,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\src\Application.cpp(230,38): warning C4305: '=': truncation from 'double' to 'float'
+  pool_ball_cpp.vcxproj -> C:\Users\aviv studio\Desktop\Develop\pikuma2d\pool_ball_cpp\x64\Debug\pool_ball_cpp.exe
